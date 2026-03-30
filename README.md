@@ -27,6 +27,8 @@ Question embedded → similar chunks retrieved from ChromaDB
 Chunks + question sent to Gemini → answer returned
 ```
 <img width="1425" height="777" alt="image" src="https://github.com/user-attachments/assets/47addd3e-28c5-415e-965b-8e258d71421d" />
+<img width="1425" height="777" alt="image" src="https://github.com/user-attachments/assets/d07fb63c-81ef-461d-8202-b06a2e1acf42" />
+
 
 ## Tech Stack
 
